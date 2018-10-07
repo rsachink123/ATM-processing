@@ -1,4 +1,5 @@
-# ATM-related transactions
+# ATM-related transactions through Python coding
+
 from time import*
 class BankAccount:
     def __init__(self, balance=5000):
