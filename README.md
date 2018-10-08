@@ -1,4 +1,4 @@
-# ATM-related transactions through Python 
+# ATM-related transactions through  Python 
 
 from time import*
 class BankAccount:
